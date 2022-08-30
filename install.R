@@ -6,6 +6,7 @@ install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
 install.packages("ivreg")
 install.packages("Matrix")
 install.packages(c("grf","DiagrammeR"))
+install.packages(c("sandwich","nlWaldTest"))
 ### install bioconductor packages
 # install.packages("BiocManager")
 # BiocManager::install("package")
