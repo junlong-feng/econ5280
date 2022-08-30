@@ -1,8 +1,8 @@
 ### install regular packages
 
-install.packages("reticulate") # python support in RMarkdown
+#install.packages("reticulate") # python support in RMarkdown
 install.packages(c("ggplot2","mvtnorm","plotly","latex2exp","ggpointdensity","weights","scales")) # for plotting
-install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
+#install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
 install.packages("ivreg")
 install.packages("Matrix")
 install.packages(c("grf","DiagrammeR"))
