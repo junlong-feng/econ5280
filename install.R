@@ -6,7 +6,7 @@ install.packages(c("ggplot2","mvtnorm","plotly","latex2exp","ggpointdensity","we
 install.packages("ivreg")
 install.packages("Matrix")
 install.packages(c("grf","DiagrammeR"))
-install.packages(c("sandwich","nlWaldTest"))
+install.packages(c("sandwich","nlWaldTest","lmtest"))
 ### install bioconductor packages
 # install.packages("BiocManager")
 # BiocManager::install("package")
