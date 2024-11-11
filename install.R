@@ -7,6 +7,7 @@ install.packages("ivreg")
 install.packages("Matrix")
 install.packages(c("grf","DiagrammeR"))
 install.packages(c("sandwich","nlWaldTest","lmtest"))
+install.packages("rdd")
 ### install bioconductor packages
 # install.packages("BiocManager")
 # BiocManager::install("package")
