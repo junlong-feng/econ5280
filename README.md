@@ -2,7 +2,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Econometrics course for HKUST ECON MSc. for Fall 2022.
+Econometrics course for HKUST MSc in Econ. Some notes for the past years have been moved to folder "archive_23".
 
 **FENG, Junlong**
 
